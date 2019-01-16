@@ -13,6 +13,10 @@ config :gettext_demo_app, GettextDemoAppWeb.Endpoint,
   pubsub: [name: GettextDemoApp.PubSub,
            adapter: Phoenix.PubSub.PG2]
 
+config :gettext_demo_app, GettextDemoAppWeb.Gettext,
+  default_locale: "en",
+  locales: ~w(en de pl)
+
 # Configures Elixir's Logger
 config :logger, :console,
   format: "$time $metadata[$level] $message\n",

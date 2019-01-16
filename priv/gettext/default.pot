@@ -1,0 +1,349 @@
+## This file is a PO Template file.
+##
+## `msgid`s here are often extracted from source code.
+## Add new translations manually only if they're dynamic
+## translations that can't be statically extracted.
+##
+## Run `mix gettext.extract` to bring this file up to
+## date. Leave `msgstr`s empty as changing them here as no
+## effect: edit them in PO (`.po`) files instead.
+msgid ""
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/layout/app.html.eex:10
+msgid "Hello Gettext Yata App!"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:196
+msgid "2009-2011"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:248
+msgid "<h4>Be Part<br>Of Our<br>Story!</h4>"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:18
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:183
+msgid "About"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:211
+msgid "An Agency is Born"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:143
+msgid "Branding"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:24
+msgid "Contact"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:381
+msgid "Contact Us"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:426
+msgid "Copyright &copy; Your Website 2018"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:224
+msgid "December 2012"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:318
+msgid "Diana Pertersen"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:57
+msgid "E-Commerce"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:114
+msgid "Explore"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:128
+msgid "Finish"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:115
+msgid "Graphic Design"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:129
+msgid "Identity"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:101
+msgid "Illustration"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:36
+msgid "It's Nice To Meet You"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:271
+msgid "Lead Designer"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:319
+msgid "Lead Developer"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:295
+msgid "Lead Marketer"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:142
+msgid "Lines"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:210
+msgid "March 2011"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:6
+msgid "Menu"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:262
+msgid "Our Amazing Team"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:197
+msgid "Our Humble Beginnings"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:239
+msgid "Phase Two Expansion"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:171
+msgid "Photography"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:405
+msgid "Please enter a message."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:395
+msgid "Please enter your email address."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:391
+msgid "Please enter your name."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:399
+msgid "Please enter your phone number."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:15
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:85
+msgid "Portfolio"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:450
+msgid "Privacy Policy"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:65
+msgid "Responsive Design"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:412
+msgid "Send Message"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:12
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:47
+msgid "Services"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:156
+msgid "Southwest"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:4
+msgid "Start Bootstrap"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:21
+msgid "Team"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:37
+msgid "Tell Me More"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:453
+msgid "Terms of Use"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:100
+msgid "Threads"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:225
+msgid "Transition to Full Service"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:73
+msgid "Web Security"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:157
+msgid "Website Design"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:35
+msgid "Welcome To Our Studio!"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:170
+msgid "Window"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:395
+msgid "Your Email *"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:405
+msgid "Your Message *"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:391
+msgid "Your Name *"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:399
+msgid "Your Phone *"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:200
+msgid "Beginnings were bit hard as usual. So many things were new but with our determination and passion, we were on the good path."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:184
+msgid "Experienced, professional team."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:48
+msgid "Let our expertise help bring your ideas to life."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:382
+msgid "Let’s make products your clients want!"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:263
+msgid "Our Clients are our Teammates."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:242
+msgid "Our current goal is to transform the local brand into a global one."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:74
+msgid "Select the only completely automated website security to protect your website from hackers, accelerate performance and boost conversions."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:58
+msgid "Store or marketplace development, integration, customization, migration."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:214
+msgid "That was very exciting, we finally launched our Agency!"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:228
+msgid "The beginnings were modest but now we can announce that we managed to create a full-service agency. We are so happy!"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:86
+msgid "We create usable & eye candy products."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:66
+msgid "We help take the complexity out of responsive design with details on Design, Development and Strategy."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:342
+msgid "We work together to accomplish their goals. We talk about the project, we plan together, we execute and celebrate the results."
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:270
+msgid "Kay Garland"
+msgstr ""
+
+#, elixir-format
+#: lib/gettext_demo_app_web/templates/page/index.html.eex:294
+msgid "Larry Parker"
+msgstr ""
