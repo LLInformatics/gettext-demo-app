@@ -35,9 +35,23 @@
           color: $primary;
         }
       }
+
+      &.language-switch {
+        padding: 0.85em 1em;
+        color: #c0c0c0;
+
+        a {
+          @include heading-font;
+
+          &:hover {
+            text-decoration: none;
+          }
+        }
+      }
     }
   }
 }
+
 @media(min-width:992px) {
   #mainNav {
     padding-top: 25px;
